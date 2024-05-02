@@ -7,4 +7,5 @@ browser. It is a good example of Perspective's optimized real-time windowing
 performance using the `limit` parameter, as memory usage will stay consistent, as well
 as its interactivity during frequent re-renders.
 
-Video: [Video](["video/StockTradingSimulation.mp4"](https://vimeo.com/941854043?share=copy))
+Video: ```html
+<iframe src="https://player.vimeo.com/video/941854043" width="640" height="360" frameborder="0" allowfullscreen></iframe>
