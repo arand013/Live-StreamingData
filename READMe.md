@@ -7,4 +7,4 @@ browser. It is a good example of Perspective's optimized real-time windowing
 performance using the `limit` parameter, as memory usage will stay consistent, as well
 as its interactivity during frequent re-renders.
 
-Video: /StockTradingSimulation.mp4
+Video: [Video]("video/StockTradingSimulation.mp4")
